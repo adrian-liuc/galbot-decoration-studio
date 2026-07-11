@@ -8,6 +8,7 @@ export everything as STL/3MF for printing.
 
 The 3D viewer loads the robot's real URDF via [`urdf-loader`](https://github.com/gkjohnson/urdf-loaders)
 so decorations attach to the robot's actual joints/links, not an approximation.
+<img width="1889" height="929" alt="920d23ee7725c3239839ca2cacff6985" src="https://github.com/user-attachments/assets/6a10b03e-ad86-408a-b6f4-28595b90a66b" />
 
 ## Project layout
 
