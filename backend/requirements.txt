@@ -1,0 +1,12 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+sqlmodel>=0.0.16
+numpy>=1.26
+scipy>=1.12
+networkx>=3.2
+lxml>=5.0
+shapely>=2.0
+trimesh>=4.0
+numpy-stl>=3.1
+manifold3d>=2.3
+pydantic>=2.6

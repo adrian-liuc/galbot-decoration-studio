@@ -1,0 +1,27 @@
+{
+  "left_shoulder": {
+    "link": "left_arm_link1",
+    "attachment_type": "ring",
+    "offset": [0, 0, 0]
+  },
+  "right_shoulder": {
+    "link": "right_arm_link1",
+    "attachment_type": "ring",
+    "offset": [0, 0, 0]
+  },
+  "chest": {
+    "link": "torso_base_link",
+    "attachment_type": "flat",
+    "offset": [0, 0.22, 0.14]
+  },
+  "back": {
+    "link": "torso_base_link",
+    "attachment_type": "flat",
+    "offset": [0, 0.22, -0.14]
+  },
+  "head_top": {
+    "link": "head_link2",
+    "attachment_type": "flat",
+    "offset": [0, 0.1, 0]
+  }
+}
