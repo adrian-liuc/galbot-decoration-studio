@@ -7,8 +7,8 @@ export default defineConfig({
   server: {
     host: true,
     proxy: {
-      '/api': 'http://127.0.0.1:8200',
-      '/robot': 'http://127.0.0.1:8200',
+      '/api': 'http://127.0.0.1:8201',
+      '/robot': 'http://127.0.0.1:8201',
     },
   },
 })
